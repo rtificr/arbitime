@@ -8,15 +8,6 @@ A simple Rust library for timing code execution with convenient macros.
 - `format_time!` - Time code execution and format duration as a string
 - `log_time!` - Time code execution with automatic logging to stderr
 
-## Installation
-
-Add this to your `Cargo.toml`:
-
-```toml
-[dependencies]
-arbitime = "0.1.0"
-```
-
 ## Usage
 
 ### Basic timing with `time!`

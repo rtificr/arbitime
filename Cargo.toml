@@ -3,7 +3,8 @@ name = "arbitime"
 authors = ["Jay Churchill"]
 description = "Dead simple timing macros"
 license = "MIT OR Apache-2.0"
-version = "0.1.0"
+repository = "https://github.com/rtificr/arbitime"
+version = "0.1.1"
 edition = "2024"
 
 [dependencies]
