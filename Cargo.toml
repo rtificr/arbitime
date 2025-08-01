@@ -4,7 +4,11 @@ authors = ["Jay Churchill"]
 description = "Dead simple timing macros"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/rtificr/arbitime"
-version = "0.1.1"
+version = "0.1.2"
+documentation = "https://docs.rs/arbitime"
 edition = "2024"
+keywords = ["time", "benchmark", "performance", "profiling", "macro"]
+categories = ["development-tools::profiling", "development-tools", "development-tools::debugging"]
+im-a-teapot = false
 
 [dependencies]
