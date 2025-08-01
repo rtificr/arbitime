@@ -9,6 +9,5 @@ documentation = "https://docs.rs/arbitime"
 edition = "2024"
 keywords = ["time", "benchmark", "performance", "profiling", "macro"]
 categories = ["development-tools::profiling", "development-tools", "development-tools::debugging"]
-im-a-teapot = false
 
 [dependencies]
